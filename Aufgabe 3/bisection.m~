@@ -1,0 +1,5 @@
+
+function [xbar.x] = bisektion(f,a,b,tol,nmax)
+    xbar = 5;
+    x = 4;
+end
